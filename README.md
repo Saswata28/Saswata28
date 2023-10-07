@@ -63,7 +63,8 @@
 </p>
 
 ### 📊 My Github Contributions
-![Snake animation](https://github.com/Saswata28/Saswata28/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Saswata28/Saswata28/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Saswata28.Saswata28)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
