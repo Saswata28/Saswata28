@@ -10,7 +10,7 @@
   }
   #head2{
     width: 30%;
-    bottom: 40%;
+    top: 0px;
   }
  .heading1 {
   float: left;
