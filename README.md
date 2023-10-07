@@ -81,7 +81,7 @@
 </p>
 
 ### 📊 My Github Contributions
-![Snake animation](https://github.com/Saswata28/Saswata28/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Saswata28/Saswata28/grid_snake.svg)
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
