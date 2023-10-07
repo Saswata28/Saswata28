@@ -16,7 +16,7 @@
   padding: 5px;
 }
 
-.heading::after {
+.headings::after {
   content: "";
   clear: both;
   display: table;
