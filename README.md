@@ -13,7 +13,6 @@
   float: left;
   padding: 10px;
 }
-
 .headings {
   display: flex;
 }
