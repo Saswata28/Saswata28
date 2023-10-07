@@ -5,22 +5,19 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = "200" class="headings1" id="head2">
 </div>
 <style>
-  #head1{
+  #head1 {
     width: 70%;
   }
-  #head2{
+  #head2 {
     width: 30%;
-    top: 0px;
   }
- .heading1 {
+ .headings1 {
   float: left;
   padding: 10px;
 }
 
-.headings::after {
-  content: "";
-  clear: both;
-  display: table;
+.headings {
+  display: flex;
 }
 </style>
 
