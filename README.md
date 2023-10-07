@@ -1,10 +1,8 @@
 
 <div class="headings">
-<img src="animated_name.svg" width = "800" class="headings1" id="head1">
-
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = "200" class="headings1" id="head2">
+<img src="animated_name.svg" width = "800" class="headings1" id="head1"> <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = "200" class="headings1" id="head2">
 </div>
-<style>
+<!--<style>
   #head1 {
     width: 70%;
   }
@@ -19,7 +17,7 @@
 .headings {
   display: flex;
 }
-</style>
+</style>-->
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
