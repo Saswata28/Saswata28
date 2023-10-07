@@ -10,10 +10,11 @@
   }
   #head2{
     width: 30%;
+    bottom: 20%;
   }
  .heading1 {
   float: left;
-  padding: 5px;
+  padding: 10px;
 }
 
 .headings::after {
