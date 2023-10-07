@@ -22,6 +22,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
+- 🎯 I am passionate about **Cyber-security** and want to be a **Pen-tester**
 
 - 🔭 I’m currently working on **Exploiting Kioptrix**
 
