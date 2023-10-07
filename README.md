@@ -30,9 +30,9 @@
 
 - 🌱 I’m currently learning **concepts and tools of cyber-security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saswata28](https://github.com/Saswata28)
+- 👨‍💻 All of my projects are available at -<br>[https://github.com/Saswata28](https://github.com/Saswata28)
 
-- 💻 My personal Portfolio [https://saswata28.github.io/saswata-malakar.github.io/](https://saswata28.github.io/saswata-malakar.github.io/)
+- 💻 My personal Portfolio -<br>[https://saswata28.github.io/saswata-malakar.github.io/](https://saswata28.github.io/saswata-malakar.github.io/)
 
 - 💬 Ask me anything about **Networking, Linux, or anything about cyber-security**
 
