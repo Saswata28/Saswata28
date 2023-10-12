@@ -22,9 +22,9 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🎯 I'm passionate about **Cyber-security** and want to be a **Pen-tester**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> I'm passionate about **Cyber-security** 
 
-- 🔭 I’m currently working on **Exploiting Kioptrix**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I’m currently working on **Exploiting Kioptrix**
 
 - 🌱 I’m currently learning **concepts and tools of cyber-security**
 
