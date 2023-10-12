@@ -1,6 +1,7 @@
 
 <div class="headings">
 <img src="animated_name.svg" width = "100%" class="headings1" id="head1"> <!--<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = "200" class="headings1" id="head2">-->
+
 </div>
 <!--<style>
   #head1 {
@@ -18,6 +19,11 @@
 }
 </style>-->
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+<!-- Typing sentences -->
+<p align="center">
+<a href="#">
+  <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'm+a+college+Student;I'm+passionate+about+Cybersecurity;I'm+always+learning." alt="Text Gagal ditampilkan!"></a>
+</p><hr>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380">
 <h3> 👨🏻•💻 About Me </h3>
 
