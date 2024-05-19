@@ -30,7 +30,7 @@
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> I'm passionate about **Cyber-security** 
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I’m currently working on **Exploiting Kioptrix**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I’m currently solving **THM and HTB Machines**
 
 - 🌱 I’m currently learning **concepts and tools of cyber-security**
 
@@ -38,7 +38,7 @@
 
 - 💻 My personal Portfolio -<br>[https://saswata28.github.io/saswata-malakar.github.io/](https://saswata28.github.io/saswata-malakar.github.io/)
 
-- 💬 Ask me anything about **Networking, Linux, or anything about cyber-security**
+- 💬 Ask me anything about **Networking, Linux, or anything about cyber-security** I'll try to answer based on my knowledge 😊
 
 - 📫 How to reach me **saswatamalakar28@gmail.com**
 
